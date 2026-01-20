@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./media/logo.png" alt="شعار مشروع البيّنة" width="450" />
+  <img src="./media/logo.png.png" alt="شعار مشروع البيّنة" width="450" />
   <br />
   
   # البيّنة | Al-Bayyinah
