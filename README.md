@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./media/logo.png" alt="شعار مشروع البيّنة" width="200" />
+    <img src="./media/logo.png.png" alt="شعار مشروع البيّنة" width="200" />
   
   # البيّنة | Al-Bayyinah
   ### مشروع البصمة الوراثية للقرآن الكريم (Quranic Genetic Fingerprint)
