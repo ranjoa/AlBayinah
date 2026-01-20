@@ -14,7 +14,12 @@
 <br />
 
 <div dir="rtl" align="right">
-
+<h3>
+    <a href="https://quaran.pages.dev/">
+      🌐 زيارة المنصة الحية (Live Demo)
+    </a>
+  </h3>
+</div>
 ---
 
 ## 📖 عن المشروع
