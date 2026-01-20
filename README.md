@@ -7,14 +7,6 @@
   <p>
     <b>بيانٌ يُبهر العقول</b><br>
     استكشاف التوازن المطلق في كتاب الله باستخدام تقنيات الذكاء الاصطناعي والتحليل الرقمي العميق.
-  </p>
-
-  [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react)](https://react.dev/)
-  [![AI Engine](https://img.shields.io/badge/AI-Gemini_3_Pro-4285F4?logo=google)](https://deepmind.google/technologies/gemini/)
-  [![Status](https://img.shields.io/badge/Status-Research_Beta-success)]()
-  [![License](https://img.shields.io/badge/License-Proprietary-red)]()
-
-</div>
 
 ---
 
